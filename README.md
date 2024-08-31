@@ -1,1 +1,1 @@
-# Genral calculator
+# General calculator
